@@ -1,4 +1,4 @@
-## Jornada da Usuária
+## Jornada do Usuário
 
 | Etapa       | Ação da usuária        | Dificuldade              | Oportunidade              |
 |------------|------------------------|--------------------------|---------------------------|
